@@ -1,0 +1,5 @@
+/.idea
+*.sql
+*.crt
+*.key
+.env.local

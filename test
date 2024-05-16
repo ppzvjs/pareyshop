@@ -1,0 +1,1 @@
+DATABASE_URL="postgresql://exampleuser:examplepass@db:3306/exampledb?serverVersion=15&charset=utf8"
